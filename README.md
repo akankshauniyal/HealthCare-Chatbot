@@ -7,10 +7,10 @@ The application combines a React.js frontend with a Python Flask backend and a R
 Application Preview
 
 ### Chatbot Interface
-![Healthcare Chatbot Interface](./healthcare-chatbot-interface.png)
+![Healthcare Chatbot Interface](./healthcare-chatbot-interface.png.png)
 
 ### Symptom Analysis & Prediction
-![Healthcare Chatbot Prediction](./healthcare-chatbot-prediction.png)
+![Healthcare Chatbot Prediction](./healthcare-chatbot-prediction.png.png)
 
 Key Features
 
